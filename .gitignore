@@ -10,6 +10,22 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+aprendendo-csharp/[Ll]ibrary/
+aprendendo-csharp/[Tt]emp/
+aprendendo-csharp/[Oo]bj/
+aprendendo-csharp/[Bb]uild/
+aprendendo-csharp/[Bb]uilds/
+aprendendo-csharp/[Ll]ogs/
+aprendendo-csharp/[Mm]emoryCaptures/
+
+woodbreaker/[Ll]ibrary/
+woodbreaker/[Tt]emp/
+woodbreaker/[Oo]bj/
+woodbreaker/[Bb]uild/
+woodbreaker/[Bb]uilds/
+woodbreaker/[Ll]ogs/
+woodbreaker/[Mm]emoryCaptures/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
